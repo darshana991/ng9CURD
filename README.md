@@ -29,5 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ##REST backend
 
-RUN `npm install -g json-server` to setup mock server.Create json file with .json  extension. ( Like mockdata.json).
+RUN `npm install -g json-server` to setup mock server.Open the mock-server file in root folder .
 RUN `json-server --watch mockdata.json`
